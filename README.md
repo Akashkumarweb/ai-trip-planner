@@ -77,7 +77,9 @@ Easy Trip AI is a full-stack, AI-powered travel planner that helps users design 
 > **Note:** Sample images are shown below to demonstrate the interface. They do **not** reveal code.
 
    <details>
-   <summary>![Trip Planner Page](https://easytripai.com/AI-Trip-Planner.jpg)</summary>
+    <summary>
+        <img src="https://easytripai.com/AI-Trip-Planner.jpg" alt="Trip Planner Page" />
+    </summary>
    Demonstrates the quiz to determine user travel personality (pace, interests, budget).
    </details>
 
